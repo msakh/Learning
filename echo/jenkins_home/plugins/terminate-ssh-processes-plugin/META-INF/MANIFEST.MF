@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: lucinka
+Build-Jdk: 1.6.0_27
+Extension-Name: terminate-ssh-processes-plugin
+Implementation-Title: terminate-ssh-processes-plugin
+Implementation-Version: 1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: terminate-ssh-processes-plugin
+Long-Name: Terminate ssh processes
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Ssh+processes+check+p
+ lugin
+Plugin-Version: 1.0
+Hudson-Version: 1.430
+Jenkins-Version: 1.430
+Plugin-Developers: Lucie Votypkova:lvotypko:lvotypko@redhat.com
+

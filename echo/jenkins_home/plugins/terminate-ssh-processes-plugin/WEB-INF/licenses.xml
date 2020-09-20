@@ -1,0 +1,5 @@
+<l:dependencies xmlns:l='licenses'>
+  <l:dependency name='Terminate ssh processes' groupId='org.jenkins-ci.plugins' artifactId='terminate-ssh-processes-plugin' version='1.0' url='https://wiki.jenkins-ci.org/display/JENKINS/Ssh+processes+check+plugin'>
+    <l:description />
+  </l:dependency>
+</l:dependencies>
